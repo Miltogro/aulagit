@@ -2,6 +2,8 @@
 
 ### Te amo
 
+Git brach -D (nome da branch)
+
 Git push = enviar/subir
 
 Git pull = baixar/atualizar
