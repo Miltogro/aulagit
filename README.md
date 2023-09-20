@@ -6,6 +6,10 @@ Git push = enviar/subir
 
 Git pull = baixar/atualizar
 
+Git checkout main
+
+git commit -m "" -m ""
+
 nano main.py
 
 git checkout
